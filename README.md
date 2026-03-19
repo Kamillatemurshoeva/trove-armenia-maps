@@ -28,7 +28,6 @@ Each row describes one Trove record and may include:
 - URL to original object
 - manuscript ID or shelfmark
 - Trove category
-- Trove record type
 - Trove ID
 - Trove URL
 
